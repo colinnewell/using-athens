@@ -1,7 +1,7 @@
 # athens-proxy config
 
 Playing about with providing access to private repo's on storage like github or
-bitbucket via a go proxy (athens).
+bitbucket via a go proxy [athens](https://github.com/gomods/athens).
 
 Run the setup script to create an ssh key to use with an account to access the
 private server.
