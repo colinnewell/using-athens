@@ -8,4 +8,4 @@ echo avoid using an empty passphrase private key.
 ssh-keygen -f ssh-keys/id_rsa
 cat ssh-keys/id_rsa.pub
 echo Now install the public key in a github account with access to the private
-echo repo's.
+echo "repo's."
